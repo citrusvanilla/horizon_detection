@@ -50,7 +50,7 @@ File | Purpose
 two_objectives_horizon_detection.ipynb |	iPython Notebook for user-friendly implementation and data exploration.
 two_objectives_horizon_detection.py | Python file containing main, preprocessing steps and subroutines.
 
-## Getting up and running
+## Getting Up and Running
 
 While in the `two_objectives_horizon_detection` directory, enter the following in the command line:
 
